@@ -1,6 +1,8 @@
 # Amazon_Clone (React, Node.js, Firebase, Express, Cors,Axios, REDUX, Context API, NoSQL)
 Amazon Shopping Website Clone using Full-Stack Development
 
+The website includes the payment gateway as well that has been developed using Stripe.
+
 $ npm start => to run the application on the server localhost:3000 OR 10.1.10.74:3000 (3000 is the default PORT)
 $ sudo npm install -g firebase-tools // integrate app with firebase cloud
 
